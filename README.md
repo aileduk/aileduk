@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kudelia Yurii</h1>
 <h3 align="center">A passionate front-end developer from Ukraine</h3>
 
-- 📫 How to reach me **aileduk.job@gmail.com**
+=> How to contact me **aileduk.job@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
