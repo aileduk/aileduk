@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kudelia Yurii</h1>
-<h3 align="center">A passionate front-end developer from Ukraine</h3>
+<h1>Hi, I'm Kudelia Yurii</h1>
+<h3>A passionate front-end developer from Ukraine</h3>
 
 How to contact me: </br>
 Email => **aileduk.job@gmail.com** </br>
